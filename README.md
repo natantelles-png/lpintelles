@@ -7,4 +7,4 @@ Site estático, pronto para o GitHub Pages.
 - `assets/`: fotos da página
 - `.nojekyll`: faz o Pages servir os arquivos como estão
 
-Para publicar: Settings > Pages > Source: `Deploy from a branch` > Branch: `main` / `(root)`.
+Domínio próprio: `intelles.com.br` (arquivo `CNAME`). Publicação: Settings > Pages > Deploy from a branch > `main` / `(root)`.
